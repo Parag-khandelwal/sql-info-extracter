@@ -1,0 +1,30 @@
+{
+    "tables": [
+        "EmployeeSalaries",
+        "Departments",
+        "Employees"
+    ],
+    "columns": [
+        "e.EmployeeID",
+        "es.Salary",
+        "e.FirstName",
+        "es.EmployeeID",
+        "es.Bonus",
+        "@EmployeeCount = COUNT(*)",
+        "e.LastName",
+        "d.DepartmentName"
+    ],
+    "procedures": [
+        "GetEmployeeData",
+        "UpdateEmployeeStatus"
+    ],
+    "comments": [
+        "-- Sample Stored Procedure for Testing",
+        "-- Fetch employee details",
+        "-- Fetch employee salary information",
+        "-- View definition",
+        "-- Another stored procedure",
+        "-- Log the status change",
+        "-- Function definition"
+    ]
+}

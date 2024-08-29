@@ -1,0 +1,6 @@
+2024-08-29 19:20:07,985 - INFO - Writing function to extract SQL info from SQL files
+2024-08-29 19:20:07,997 - INFO - Successfully extracted all information from SQL file
+2024-08-29 19:20:07,998 - INFO - SQL data saved to .\employees.json successfully!
+2024-08-29 19:20:21,343 - INFO - Writing function to extract SQL info from SQL files
+2024-08-29 19:20:21,344 - INFO - Successfully extracted all information from SQL file
+2024-08-29 19:20:21,344 - INFO - SQL data saved to .\employees.json successfully!
